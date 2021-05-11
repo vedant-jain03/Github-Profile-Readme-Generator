@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Github-Profile-Readme-Generator/static/css/main.86ff41e5.chunk.css",
+    "main.js": "/Github-Profile-Readme-Generator/static/js/main.f49f2ca2.chunk.js",
+    "main.js.map": "/Github-Profile-Readme-Generator/static/js/main.f49f2ca2.chunk.js.map",
+    "runtime-main.js": "/Github-Profile-Readme-Generator/static/js/runtime-main.c8f77796.js",
+    "runtime-main.js.map": "/Github-Profile-Readme-Generator/static/js/runtime-main.c8f77796.js.map",
+    "static/js/2.a741d6c9.chunk.js": "/Github-Profile-Readme-Generator/static/js/2.a741d6c9.chunk.js",
+    "static/js/2.a741d6c9.chunk.js.map": "/Github-Profile-Readme-Generator/static/js/2.a741d6c9.chunk.js.map",
+    "index.html": "/Github-Profile-Readme-Generator/index.html",
+    "static/css/main.86ff41e5.chunk.css.map": "/Github-Profile-Readme-Generator/static/css/main.86ff41e5.chunk.css.map",
+    "static/js/2.a741d6c9.chunk.js.LICENSE.txt": "/Github-Profile-Readme-Generator/static/js/2.a741d6c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8f77796.js",
+    "static/js/2.a741d6c9.chunk.js",
+    "static/css/main.86ff41e5.chunk.css",
+    "static/js/main.f49f2ca2.chunk.js"
+  ]
+}
