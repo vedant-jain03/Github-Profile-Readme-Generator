@@ -14,7 +14,7 @@ git clone https://github.com/<your_user_name>/Github-Profile-Readme-Generator.gi
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd HashHub
+cd Github-Profile-Readme-Generator
 ```
 
 **4.** Add a reference(remote) to the original repository.
